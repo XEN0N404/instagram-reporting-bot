@@ -27,6 +27,10 @@
 
 ---
 
+> 💬 **"When an account is massively reported, regardless of the content on the account, the account will be deleted anyway."** — *Instagram Reporting System*
+
+---
+
 ## 📌 VERSIONS OVERVIEW
 
 <p align="center">
@@ -41,19 +45,19 @@
         <img src="v1.jpg" width="250px" alt="Version 1">
         <br>
         <strong>Basic Reporting</strong>
-      </td>
+       </td>
       <td align="center">
         <img src="v2.png" width="250px" alt="Version 2">
         <br>
         <strong>Advanced Automation</strong>
-      </td>
+       </td>
       <td align="center">
         <img src="v3.jpg" width="250px" alt="Version 3">
         <br>
         <strong>Pro Mass Report</strong>
-      </td>
+       </td>
     </tr>
-  </table>
+   </>
 </p>
 
 ---
@@ -64,36 +68,34 @@
 
 ### ⚡ How It Works
 
-```mermaid
-graph LR
-    A[Target Account] --> B[Bot Analyzes]
-    B --> C[Generates Reports]
-    C --> D[Mass Submission]
-    D --> E[Instagram Review]
-    E --> F[Account Banned]
+```
+
+[Target Account] → [Bot Analyzes] → [Generates Reports] → [Mass Submission] → [Instagram Review] → [Account Banned]
+
 ```
 
 ---
 
-📊 VERSION COMPARISON
+## 📊 VERSION COMPARISON
 
-Feature v1.0 v2.0 v3.0
-Single Account Report ✅ ✅ ✅
-Multi-Account Reporting ❌ ✅ ✅
-Bulk Target Upload ❌ ❌ ✅
-Auto Proxy Rotation ❌ ✅ ✅
-Captcha Solver ❌ ✅ ✅
-24/7 Automated Mode ❌ ❌ ✅
-Report Status Tracking ❌ ✅ ✅
-Multi-Threading Support ❌ ❌ ✅
-Anti-Detection System ❌ ✅ ✅
-Success Rate 65% 85% 95%+
+| Feature | v1.0 | v2.0 | v3.0 |
+|---------|------|------|------|
+| Single Account Report | ✅ | ✅ | ✅ |
+| Multi-Account Reporting | ❌ | ✅ | ✅ |
+| Bulk Target Upload | ❌ | ❌ | ✅ |
+| Auto Proxy Rotation | ❌ | ✅ | ✅ |
+| Captcha Solver | ❌ | ✅ | ✅ |
+| 24/7 Automated Mode | ❌ | ❌ | ✅ |
+| Report Status Tracking | ❌ | ✅ | ✅ |
+| Multi-Threading Support | ❌ | ❌ | ✅ |
+| Anti-Detection System | ❌ | ✅ | ✅ |
+| Success Rate | 65% | 85% | 95%+ |
 
 ---
 
-🚀 VERSION DETAILS
+## 🚀 VERSION DETAILS
 
-🔴 Version 1.0 - Basic
+### 🔴 Version 1.0 - Basic
 
 ```python
 # Basic reporting functionality
@@ -223,7 +225,7 @@ Success Reports
 
 · ✅ 500+ accounts banned (Last 30 days)
 · ✅ 95% success rate on v3.0
-· ✅ Average ban time: 24-48 hours
+· ✅ 24-48 hours average ban time
 · ✅ Real customer testimonials available
 
 ---
@@ -289,27 +291,17 @@ You can report accounts engaging in:
 
 ---
 
-# ⚠️ WHEN DO YOU NEED THIS BOT?
+⚠️ WHEN DO YOU NEED THIS BOT?
 
-🔴 Your Brand Is Being Impersonated
-
-Fake profiles copying your logo, bio, and imagery to run scams or sell counterfeit products.
-
-🟠 Spam Bots Are Flooding Your Content
-
-Engagement manipulation campaigns creating hundreds of bot accounts that follow, like, or comment on your posts.
-
-🟡 Scam Accounts Targeting Your Audience
-
-Phishing profiles DMing your followers with fake offers, prize notifications, or support requests.
-
-🔴 Competitor Spam or Harassment
-
-Competitors using networks of spam accounts to flood your profile with negative comments or false reports.
+ Scenario Description
+🔴 Brand Impersonation Fake profiles copying your logo, bio, and imagery to run scams or sell counterfeit products
+🟠 Spam Flood Engagement manipulation campaigns creating hundreds of bot accounts that follow, like, or comment on your posts
+🟡 Scam Targeting Phishing profiles DMing your followers with fake offers, prize notifications, or support requests
+🔴 Harassment Competitors using networks of spam accounts to flood your profile with negative comments or false reports
 
 ---
 
-# 📈 STATISTICS & SUCCESS RATE
+📈 STATISTICS & SUCCESS RATE
 
 Version Reports/Day Success Rate Avg Ban Time Price
 v1.0 10-20 65% 48-72 hours Free
@@ -318,14 +310,14 @@ v3.0 500+ 95%+ 12-24 hours Enterprise
 
 ---
 
-# 🎯 GET STARTED
+🎯 GET STARTED
 
 <p align="center">
   <h3 align="center">Join our Telegram Channel for Access</h3>
 </p>
 
 <p align="center">
-  <a href="https://t.me/igreport7">
+  <a href="https://t.me/HYDRAxIGPORT">
     <img src="https://img.shields.io/badge/🔗_CLICK_HERE_TO_JOIN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&logoWidth=40">
   </a>
 </p>
@@ -336,16 +328,16 @@ v3.0 500+ 95%+ 12-24 hours Enterprise
 
 ---
 
-### 📜 LEGAL NOTICE
+📜 LEGAL NOTICE
 
 ⚠️ DISCLAIMER: I am not accountable for any of your actions. This tool is provided for educational purposes and to combat actual spam, scams, and policy violations. Users are responsible for ensuring they have legitimate grounds to report accounts. False reporting may violate Instagram's Terms of Service.
 
 ---
 
-# 🔗 CONNECT WITH US
+🔗 CONNECT WITH US
 
 <p align="center">
-  <a href="https://t.me/igreport7">
+  <a href="https://t.me/HYDRAxIGPORT">
     <img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://github.com/XEN0N404">
@@ -355,13 +347,12 @@ v3.0 500+ 95%+ 12-24 hours Enterprise
 
 ---
 
-# 📞 SUPPORT
+📞 SUPPORT
 
-For support, inquiries, or to report issues:
-
-## · Telegram: t.me/HYDRAxIGPORT
-## · Response Time: Within 6 hours
-## · Support Hours: 24/7
+Contact Details
+Telegram t.me/HYDRAxIGPORT
+Response Time Within 6 hours
+Support Hours 24/7
 
 ---
 
