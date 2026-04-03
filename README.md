@@ -200,7 +200,7 @@ Step 2: Get Access
 Join our Telegram channel and contact us:
 
 <p align="center">
-  <a href="https://t.me/igreport7">
+  <a href="https://t.me/HYDRAxIGPORT">
     <img src="https://img.shields.io/badge/📡_JOIN_TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
