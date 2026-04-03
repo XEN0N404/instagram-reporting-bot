@@ -289,7 +289,7 @@ You can report accounts engaging in:
 
 ---
 
-⚠️ WHEN DO YOU NEED THIS BOT?
+# ⚠️ WHEN DO YOU NEED THIS BOT?
 
 🔴 Your Brand Is Being Impersonated
 
@@ -309,7 +309,7 @@ Competitors using networks of spam accounts to flood your profile with negative 
 
 ---
 
-📈 STATISTICS & SUCCESS RATE
+# 📈 STATISTICS & SUCCESS RATE
 
 Version Reports/Day Success Rate Avg Ban Time Price
 v1.0 10-20 65% 48-72 hours Free
@@ -318,7 +318,7 @@ v3.0 500+ 95%+ 12-24 hours Enterprise
 
 ---
 
-🎯 GET STARTED
+# 🎯 GET STARTED
 
 <p align="center">
   <h3 align="center">Join our Telegram Channel for Access</h3>
@@ -336,13 +336,13 @@ v3.0 500+ 95%+ 12-24 hours Enterprise
 
 ---
 
-📜 LEGAL NOTICE
+### 📜 LEGAL NOTICE
 
 ⚠️ DISCLAIMER: I am not accountable for any of your actions. This tool is provided for educational purposes and to combat actual spam, scams, and policy violations. Users are responsible for ensuring they have legitimate grounds to report accounts. False reporting may violate Instagram's Terms of Service.
 
 ---
 
-🔗 CONNECT WITH US
+# 🔗 CONNECT WITH US
 
 <p align="center">
   <a href="https://t.me/igreport7">
@@ -355,13 +355,13 @@ v3.0 500+ 95%+ 12-24 hours Enterprise
 
 ---
 
-📞 SUPPORT
+# 📞 SUPPORT
 
 For support, inquiries, or to report issues:
 
-· Telegram: @igreport7
-· Response Time: Within 6 hours
-· Support Hours: 24/7
+## · Telegram: t.me/HYDRAxIGPORT
+## · Response Time: Within 6 hours
+## · Support Hours: 24/7
 
 ---
 
